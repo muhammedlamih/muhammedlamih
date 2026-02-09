@@ -14,7 +14,7 @@ I'm a First year *Computer Science Student* 💻 diving into web development. Cu
 
 <div class="badges-intro">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,python,git,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,python,git&perline=6)](https://skillicons.dev)
 
 </div>
 
