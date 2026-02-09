@@ -21,7 +21,7 @@ I'm a First year *Computer Science Student* 💻 diving into web development. Cu
 ## 📈 My GitHub Stats
 
 <div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lezinsaajid&custom_title=Lezin%20Sajid's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedlamih&custom_title=Muhammed%20Lamih's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 </div>
 
