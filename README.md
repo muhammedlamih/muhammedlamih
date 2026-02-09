@@ -9,8 +9,6 @@ I'm a First year *Computer Science Student* 💻 diving into web development. Cu
 </div>
 
 - 💼 Open to freelance gigs, internships, or leadership roles? Hit me up via <a href="mailto:muhammedlamih27@gmal.com">email</a>
-- 💬 Ask away about projects or career tips!
-- 📧 Contact: muhammedlamih27@gmal.com
 
 <div class="badges-intro">
 
